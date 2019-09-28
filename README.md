@@ -19,13 +19,7 @@ In StarCraft II, players can choose between three factions, Zerg, Protoss and Te
 | Macro            | Build and manage an economy | Mine ressources, create new buildings, produce army units and updates | Good macro leads to a large army, multiple base expansions, and continous flow of production |
 | Mirco            | Control an army | Coordinate individual units' movements and actions in combat | Good mirco leads to quick and adaptive maneuvers and a high survivability of units |
 
-
-
-First, build and manage an economy. This includes buiding workers to mine ressources, create new buildings, and use the buildings to produce army units and updates. We refer to the economic gameplay as *macro* gameplay. 
-
-Second, control an army. This includes commanding army units mainly on a tactical level. The tactical level covers the control of individual units in combat. We refer to the control of units as *micro* gameplay. 
-
-Depending on a player's skill, the player might decide to pursue a micro or macro-intensive gameplay. The former is generally differentiated through a large army, the latter through quick maneuvers and high unit survival.  
+Depending on a player's skill, the player might decide to pursue a micro or macro-intensive gameplay.
 
 The game ends if one of the players has lost all their buildings, or a player resigns. A game can last anywhere from 5 to 30 minutes. To gain a glimpse of what StarCraft II gameplay is like, take a look at one the professional esports matches on [YouTube](https://www.youtube.com/watch?v=QFFrMJykL2w). 
 
