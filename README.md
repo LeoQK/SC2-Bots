@@ -10,11 +10,13 @@ If you're interested in the Computational Applications to Policy and Strategy co
 
 StarCraft II is a real-time strategy game released by Blizzard in 2010. The game's precessor is StarCraft Broodwars. In this introduction, we'll briefly go over core gameplay elements of StarCraft II and then touch on some of the reasons why the game is interesting from a computational perspective. 
 
+If you're familiar with the game and don't need a refresher, skip this introduction. 
+
 ### Gameplay
 
 #### Overview
 
-In StarCraft II, players can choose between three factions, Zerg, Protoss and Terran. To defeat their opponent, a player has to master two main techniques, macro and micro gameplay, and their associated tasks.
+In StarCraft II, players can choose between three factions, Zerg, Protoss and Terran. To defeat their opponent, a player has to master two main techniques, macro and micro management, and their associated tasks.
 
 | Technique        | Main task                      | Sub-tasks  | Differentiation |
 | :----------------: |:-------------------------:| :---------:| :---------:|
@@ -25,8 +27,24 @@ Depending on a player's skill, the player might decide to pursue a micro or macr
 
 To gain a glimpse of what StarCraft II gameplay is like, take a look at one the professional esports matches on [YouTube](https://www.youtube.com/watch?v=QFFrMJykL2w). 
 
+#### Elements
+
+The gameplay of StarCraft revolves around a number of core elements: factions, maps, units and buildings. Each faction has its own units and buildings and there's a large number of maps on which the games take place. 
+
+To give a brief description of the factions, Zerg are swarm-based insects, Protoss a high-tech civilization, and Terran humans. Average unit costs are lowest for Zerg and highest for Protoss, with Terran in the middle. The ressource costs determine the composition of the army; while Zerg might swarm out with multiple units, a Protoss army of equal strength tends to encompass fewer units. 
+
+Given that the composition of an army consumes space, how that space is structured can give an advantage to a speficic faction and its default army composition. For that reason, maps can influence the balance of a game. 
+
 #### Strategies
 
-As you can imagine, there is no one strategy that will secure a win in StarCraft II. Instead, the the possibilities a players has in creating strategies through combining timing, production, selection of units and attack patterns is vast. 
+As you can imagine, there is no one strategy that will secure a win in StarCraft. Instead, the the possibilities that players have in creating strategies based on how they combine timing, production, selection of units and attack patterns is vast. We'll get back to this when we look at the game's complexity. Before that, we need to introduce some aspects that influence strategies in StarCraft.
+
+| Aspect | Description |
+|:------:|:-----------:|
+| Map |
+| Opponent faction |
+| Ressource costs |
+| Build order |
+| Game stage |
 
 ### Complexity
