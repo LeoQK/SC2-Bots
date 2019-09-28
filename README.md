@@ -42,10 +42,9 @@ The possibilities that players have in creating strategies based on how they com
 | Aspect | Description |
 |:------:|:-----------:|
 | Map | Different features of terrain lead to different advantages. Terran can use a high-ground to wall of their base, Zerg armies might avoid choke points because it exacerbates swarming. | 
-| Revealed information | Maps are covered in fog of war, meaning players need to send units to scout the maps to obtain information about their opponent's economy and army. Often strategies are developed as direct counter-strategies, so how much a player knows a bout their opponent matters a lot. |
-| Opponent faction |
-| Opponent strategy |
-| Resource costs |
+| Revealed information | Maps are covered in fog of war, meaning players need to send units to scout the maps to obtain information about their opponent's economy and army. Often strategies are developed as direct counter-strategies, hence how much a player knows a bout their opponent matters a lot. |
+| Opponent faction | Given the factions of the two players, each player will pursue different strategies depending on the faction of their opponent. Terran playing against Protoss looks different from Terran playing against Terran. 
+| Opponent strategy | Strategies are often developed specifically to counter the opponent's strategy, based on revealed information or initial assumptions about what the opponent's strategy might be. There are constant strategic adjustments based on new information becoming available throughout the game. 
 | Build order |
 | Game stage |
 
