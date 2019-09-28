@@ -37,13 +37,15 @@ Given that the composition of an army consumes space, how that space is structur
 
 #### Strategies
 
-As you can imagine, there is no one strategy that will secure a win in StarCraft. Instead, the the possibilities that players have in creating strategies based on how they combine timing, production, selection of units and attack patterns is vast. We'll get back to this when we look at the game's complexity. Before that, we need to introduce some aspects that influence strategies in StarCraft.
+The possibilities that players have in creating strategies based on how they combine timing, production, selection of units and attack patterns is vast. This is a large driver of the game's computational complexity. Below is a list of aspects that might influence how a player chooses a strategy. 
 
 | Aspect | Description |
 |:------:|:-----------:|
-| Map |
+| Map | Different features of terrain lead to different advantages. Terran can use a high-ground to wall of their base, Zerg armies might avoid choke points because it exacerbates swarming. | 
+| Revealed information |
 | Opponent faction |
-| Ressource costs |
+| Opponent strategy |
+| Resource costs |
 | Build order |
 | Game stage |
 
