@@ -12,11 +12,11 @@ StarCraft II is a real-time strategy game released by Blizzard in 2010. The game
 
 ### Gameplay
 
-In StarCraft II, players can choose between three factions, Zerg, Protoss and Terran. To defeat their opponent, a player has two main tasks. 
+In StarCraft II, players can choose between three factions, Zerg, Protoss and Terran. To defeat their opponent, a player has two master two main techniques, mirco and macro gameplay, and their associated tasks.
 
 | Technique        | Task                      | Includes  |
 | ---------------- |:-------------------------:| ---------:|
-| Macro            | Build and manage an economy |
+| Macro            | Build and manage an economy | Mine ressources, create new buildings, produce army units and updates |
 
 
 
