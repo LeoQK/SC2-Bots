@@ -66,5 +66,5 @@ Consider the following properties of the game's environment:
 |Mode of information| Imperfect information through fog of war|
 |Mode of actions| Simultaneous|
 
-The spar
+TBC
 
