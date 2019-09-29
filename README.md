@@ -6,4 +6,10 @@ Although the bots eschew the reinforcement learning capabilities integrated into
 
 If you're interested in the Computational Applications to Policy and Strategy course, please see the full course website [here](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/CAPS_course_website.md), or feel free to contact me [here](https://leoklenner.com/).
 
+## Intro to StarCraft II
 
+For a description of how the gameplay of StarCraft II works and why the game is challenging from a computational perspective, read the [gameplay overview](https://github.com/LeoQK/SC2-Bots/blob/master/docs/SC2_Overview.md) in the docs folder. 
+
+## The Bots
+
+There are two bots, [CAPSbot](https://github.com/LeoQK/SC2-Bots/blob/master/bots/CapsBot.py) and [TerranBioRush](https://github.com/LeoQK/SC2-Bots/blob/master/bots/TerranBioRush.py).
