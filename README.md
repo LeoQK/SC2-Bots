@@ -16,7 +16,11 @@ There are two bots in this repository, [CAPSbot](https://github.com/LeoQK/SC2-Bo
 
 ### CAPSbot
 
-CAPSbot builds MARINE and CYCLONE units and once > 20 MARINES and 4 CYCLONES are built, the bot attacks the enemy base. The takes place around the 5:30 minute mark. CAPSbot generally defeats the in-game AI in all lineups on "hard" difficulty.  
+[CAPSbot](https://github.com/LeoQK/SC2-Bots/blob/master/bots/CapsBot.py) builds MARINE and CYCLONE units and once > 20 MARINES and 4 CYCLONES are available, the bot attacks the enemy base. The attack takes place around the 5:30 minute mark. CAPSbot generally defeats the in-game AI in all lineups on "hard" difficulty.  
 
 See this [forum post](https://us.battle.net/forums/en/sc2/topic/20762966106) for a discussion of the MARINE + CYCLONE rush strategy and how to counter it. 
+
+### TerranBioRush
+
+[TerranBioRush](https://github.com/LeoQK/SC2-Bots/blob/master/bots/TerranBioRush.py) builds only MARINE units from 4 BARRACKS buildings and once > 12 MARINES are available, the bot attacks the enemy base. 
 
