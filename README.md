@@ -16,7 +16,7 @@ If you're familiar with the game and don't need a refresher, skip this introduct
 
 #### Overview
 
-In StarCraft II, players can choose between three factions, Zerg, Protoss and Terran. To be good at StarCraft, players need to master two main techniques, macro and micro management, and their associated tasks.
+In StarCraft II, players can choose between three factions, [Zerg](https://starcraft.fandom.com/wiki/Zerg), [Protoss](https://starcraft.fandom.com/wiki/Protoss) and [Terran](https://starcraft.fandom.com/wiki/Terran). To be good at StarCraft, players need to master two main techniques, macro and micro management, and their associated tasks.
 
 | Technique        | Main task                      | Sub-tasks  | Differentiation |
 | :----------------: |:-------------------------:| :---------:| :---------:|
