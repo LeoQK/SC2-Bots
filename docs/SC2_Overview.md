@@ -2,8 +2,6 @@
 
 StarCraft II is a real-time strategy game released by Blizzard in 2010. The game's precessor is StarCraft Broodwars. In this introduction, we'll briefly go over core gameplay elements of StarCraft II and then touch on some of the reasons why the game is interesting from a computational perspective. 
 
-If you're familiar with the game and don't need a refresher, skip this introduction. 
-
 ### Gameplay
 
 #### Overview
