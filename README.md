@@ -51,3 +51,19 @@ The possibilities that players have in creating strategies based on how they com
 All of these aspects result in the process of strategy selection and adaptation in StarCraft being highly complex. However, there are clear patterns discernible across games, such as proxy or greedy strategies. 
 
 ### Complexity
+
+StarCraft II is a complex game, especially from a computational perspective where the large action space and imperfect information take their toll on how well algortihms can learn to play the game. 
+
+Consider the following properties of the game's environment:
+
+| Property | Description |
+|:------:|:-----------:|
+|Action space| 10^8, need for hierarchical actions|
+|State space | 10^1685|
+|State transitions | Continious|
+|Rewards| Unknown for each prior state as the only rewards are binary for a win or loss of a game|
+|Reward horizon| Far horizon as the only rewards come at the end of the game|
+|Mode of information| Imperfect information through fog of war|
+|Mode of actions| Simultaneous|
+
+
