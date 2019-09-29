@@ -50,6 +50,9 @@ The possibilities that players have in creating strategies based on how they com
 
 All of these aspects result in the process of strategy selection and adaptation in StarCraft being highly complex. However, there are clear patterns discernible across games, such as proxy or greedy strategies. 
 
+![Image of Terran Tech Tree](https://github.com/LeoQK/SC2-Bots/blob/master/static/techtree.jpg)
+
+
 ### Complexity
 
 StarCraft II is a complex game, especially from a computational perspective where the large action space and imperfect information take their toll on how well algortihms can learn to play the game. 
