@@ -26,5 +26,7 @@ See this [forum post](https://us.battle.net/forums/en/sc2/topic/20762966106) for
 
 ### Failure Modes
 
-The performance of rule-based bots is not fully predictable when deployed in a complex environment like StarCraft. The failure modes of the bots arise from suboptimal navigation of certain terrain features, e.g. the army might split up around a mountain pass and thereby reduce its combined damage output and lose the game. Other failure modes arise from locking units between buildings through randomized building placements. For a discussion, see this [slide deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2003%20Building%20a%20Rule-Based%20StarCraft%20II%20Bot.pdf) from the original course. 
+The performance of rule-based bots is not fully predictable when deployed in a complex environment like StarCraft. 
+
+The failure modes of the bots arise from suboptimal navigation of certain terrain features, e.g. the army might split up around a mountain pass and thereby reduce its combined damage output and lose the game. Other failure modes arise from locking units between buildings through randomized building placements. For a discussion, see this [slide deck](https://github.com/SAIS-S2S-Technology/Roadmap/blob/master/CAPS/Slides/CAPS%2003%20Building%20a%20Rule-Based%20StarCraft%20II%20Bot.pdf) from the original course. 
 
