@@ -61,9 +61,10 @@ Consider the following properties of the game's environment:
 |Action space| 10^8, need for hierarchical actions|
 |State space | 10^1685|
 |State transitions | Continious|
-|Rewards| Unknown for each prior state as the only rewards are binary for a win or loss of a game|
+|Rewards| Unknown for each prior state as the only rewards are binary for win/loss|
 |Reward horizon| Far horizon as the only rewards come at the end of the game|
 |Mode of information| Imperfect information through fog of war|
 |Mode of actions| Simultaneous|
 
+The spar
 
