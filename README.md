@@ -12,4 +12,11 @@ For a description of how the gameplay of StarCraft II works and why the game is 
 
 ## The Bots
 
-There are two bots, [CAPSbot](https://github.com/LeoQK/SC2-Bots/blob/master/bots/CapsBot.py) and [TerranBioRush](https://github.com/LeoQK/SC2-Bots/blob/master/bots/TerranBioRush.py).
+There are two bots, [CAPSbot](https://github.com/LeoQK/SC2-Bots/blob/master/bots/CapsBot.py) and [TerranBioRush](https://github.com/LeoQK/SC2-Bots/blob/master/bots/TerranBioRush.py). Both bots play Terran and implement simple rush strategies. The boths are rule-based and hence aren't capable of learning. See this [example of a Terran reinforcement learning bot](https://github.com/skjb/pysc2-tutorial/blob/master/Reinforcement%20Learning%20Terran%20Bot/learning_agent.py). 
+
+### CAPSbot
+
+CAPSbot builds MARINE and CYCLONE units and once > 20 MARINES and 4 CYCLONES are built, the bot attacks the enemy base. The takes place around the 5:30 minute mark. CAPSbot generally defeats the in-game AI in all lineups on "hard" difficulty.  
+
+See this [forum post](https://us.battle.net/forums/en/sc2/topic/20762966106) for a discussion of the MARINE + CYCLONE rush strategy and how to counter it. 
+
