@@ -16,7 +16,7 @@ If you're familiar with the game and don't need a refresher, skip this introduct
 
 #### Overview
 
-In StarCraft II, players can choose between three factions, Zerg, Protoss and Terran. To defeat their opponent, a player has to master two main techniques, macro and micro management, and their associated tasks.
+In StarCraft II, players can choose between three factions, Zerg, Protoss and Terran. To be good at StarCraft, players need to master two main techniques, macro and micro management, and their associated tasks.
 
 | Technique        | Main task                      | Sub-tasks  | Differentiation |
 | :----------------: |:-------------------------:| :---------:| :---------:|
@@ -31,7 +31,7 @@ To gain a glimpse of what StarCraft II gameplay is like, take a look at one the 
 
 The gameplay of StarCraft revolves around a number of core elements: factions, maps, units and buildings. Each faction has its own units and buildings and there's a large number of maps on which the games take place. 
 
-To give a brief description of the factions, Zerg are swarm-based insects, Protoss a high-tech civilization, and Terran humans. Average unit costs are lowest for Zerg and highest for Protoss, with Terran in the middle. The ressource costs determine the composition of the army; while Zerg might swarm out with multiple units, a Protoss army of equal strength tends to encompass fewer units. 
+Units can be divided into workers and army. Workers mine the resources required to produce buildings, etc. Army units deal damage. Average unit costs are lowest for Zerg and highest for Protoss, with Terran in the middle. The unit resource costs determine the composition of the army. Zerg might swarm out with multiple units. A Protoss army of equal strength tends to encompass fewer units.
 
 Given that the composition of an army consumes space, how that space is structured can give an advantage to a speficic faction and its default army composition. For that reason, maps can influence the balance of a game. 
 
